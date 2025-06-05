@@ -58,14 +58,6 @@ Você pode simular este projeto na plataforma:
 
 ---
 
-## 🎥 Vídeo Demonstrativo
-
-Veja o projeto em funcionamento no vídeo abaixo:
-
-📺 [Assista no YouTube](https://youtube.com/seu-link-aqui)
-
----
-
 ## ✅ Conclusão
 
 Este projeto é uma solução prática, acessível e educativa para o monitoramento de enchentes. Ele pode ser expandido para controlar bombas d'água, enviar alertas por rede, ou ser integrado a um sistema IoT.
