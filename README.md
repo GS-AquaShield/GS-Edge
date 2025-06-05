@@ -3,9 +3,9 @@
 
 ## 📝 Descrição do Problema
 
-Monitorar o nível da água em reservatórios é fundamental para evitar o desperdício, garantir abastecimento adequado e evitar que bombas sejam ligadas ou desligadas incorretamente. Em locais onde não há sensores industriais, é possível usar soluções de baixo custo com Arduino.
+Monitorar o nível da água é fundamental para evitar enchestes, garantir abastecimento adequado e evitar que bombas sejam ligadas ou desligadas incorretamente. Em locais onde não há sensores industriais, é possível usar soluções de baixo custo com Arduino.
 
-Este projeto tem como objetivo medir a altura da água em um reservatório usando um **sensor ultrassônico HC-SR04**, exibir o nível atual em um **display LCD 16x2**, e acionar um **LED de alerta** quando o nível estiver muito baixo.
+Este projeto tem como objetivo medir a altura da água usando um **sensor ultrassônico HC-SR04**, exibir o nível atual em um **display LCD 16x2**, e acionar um **LED de alerta** quando o nível estiver muito baixo.
 
 ---
 
